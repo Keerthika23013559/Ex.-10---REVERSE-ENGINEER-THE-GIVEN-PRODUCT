@@ -1,6 +1,6 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+![328164157-1875c3fa-de65-4d2f-bd97-118508bd88f8](https://github.com/Keerthika23013559/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/162658262/b900ff47-4382-40dd-a88f-18853cbdc4d7)# Ex.4  - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 29-04-2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![328164114-31e9fd54-a988-4cff-b645-8972a4820b65](https://github.com/Keerthika23013559/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/162658262/0091bcba-232d-4c70-98e6-dadabb85bbdd)
 
 ### Output:
+![328164157-1875c3fa-de65-4d2f-bd97-118508bd88f8](https://github.com/Keerthika23013559/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/162658262/2f8128b6-a028-4607-bfc6-7c65b1d22864)
 
 
-### Name:
-### Register Number:
+### Name:KEERTHIKA M P
+### Register Number:212223240071
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
